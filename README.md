@@ -2,8 +2,6 @@
 
 参照 VS Code 编辑器风格实现的 macOS 原生 JSON 工具：格式化 / 压缩、文本·树状双视图、行号显示、检索替换、导入导出，支持深色 / 浅色主题。
 
-![文本视图（深色）](docs/screenshots/text-view.png)
-![浅色主题](docs/screenshots/text-view-light.png)
 
 ## 功能
 
